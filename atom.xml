@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>hanhuohuo的博客</title>
+  
+  <subtitle>纸上得来终觉浅，觉知此事要躬行！</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://hanhuohuo.top/"/>
+  <updated>2019-03-19T15:00:01.529Z</updated>
+  <id>http://hanhuohuo.top/</id>
+  
+  <author>
+    <name>hanhuohuo</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo+github个人博客搭建简略教程</title>
+    <link href="http://hanhuohuo.top/2019/03/18/firstblog/"/>
+    <id>http://hanhuohuo.top/2019/03/18/firstblog/</id>
+    <published>2019-03-18T06:43:17.574Z</published>
+    <updated>2019-03-19T15:00:01.529Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近才配置好简易的基于&lt;a href=&quot;https://hexo.io&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;hexo&lt;/a&gt;框架的相当于借用&lt;a href=&quot;https://github.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;github&lt;/a&gt;服务器的个人博客，然后这里分享一下自己的配置过程.若有问题可以在hexo的 &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.上查找&lt;/p&gt;
+&lt;h2 id=&quot;配置步骤&quot;&gt;&lt;a href=&quot;#配置步骤&quot; class=&quot;headerlink&quot; title=&quot;配置步骤&quot;&gt;&lt;/a&gt;配置步骤&lt;/h2&gt;&lt;h3 id=&quot;1-下载git&quot;&gt;&lt;a href=&quot;#1-下载git&quot; class=&quot;headerlink&quot; title=&quot;1.下载git&quot;&gt;&lt;/a&gt;1.下载&lt;a href=&quot;https://git-scm.com/downloads&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;git&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/2019/03/18/firstblog/git.PNG&quot; alt=&quot;git_picture_1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;2-安装git&quot;&gt;&lt;a href=&quot;#2-安装git&quot; class=&quot;headerlink&quot; title=&quot;2.安装git&quot;&gt;&lt;/a&gt;2.安装git&lt;/h3&gt;&lt;p&gt;若已经安装过git，想要通过命令行更新的话，可以输入以下命令来更新&lt;br&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;git update-git-for-windows&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;安装的时候默认勾选安装就行了&lt;/p&gt;
+&lt;h3 id=&quot;3-下载node-js，并安装&quot;&gt;&lt;a href=&quot;#3-下载node-js，并安装&quot; class=&quot;headerlink&quot; title=&quot;3.下载node.js，并安装&quot;&gt;&lt;/a&gt;3.下载&lt;a href=&quot;https://nodejs.org/en/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;node.js&lt;/a&gt;，并安装&lt;/h3&gt;&lt;p&gt;因为Hexo是基于node的静态博客框架，所以需要下载node.js&lt;br&gt;&lt;img src=&quot;/2019/03/18/firstblog/nodejs.PNG&quot; alt=&quot;nodejs_picture_1&quot;&gt;&lt;br&gt;这里选择LTS版本的，因为比较稳定,安装时，追求简单的话，默认各种勾选就可以了&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
